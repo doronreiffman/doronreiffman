@@ -21,7 +21,7 @@ The chance a flight is cancelled, or delayed an hour or more, for every flight n
 <a href="https://d153udx05irk2f.cloudfront.net"><img src="https://raw.githubusercontent.com/doronreiffman/il-grocery-prices/main/docs/img/deal-page-light.png" width="100%" alt="A product page: at Osher Ad, DEAL, 1.10 shekels off, usually 5.00, today 3.90, over a step chart of the price paid each day for 90 days, and the same product's deal at six other store formats."></a>
 <br><sub>A product page, shown on sample data.</sub>
 
-**[Is it actually a deal?](https://d153udx05irk2f.cloudfront.net)** · Israeli supermarkets
+**[Deal or No Deal?](https://d153udx05irk2f.cloudfront.net)** · Israeli supermarkets
 
 Checks today's promotion against what the product usually costs at that store, sales included, from the price files five chains must publish by law. Every morning it reads about 5 million price rows and rebuilds about 25,000 pages.
 
